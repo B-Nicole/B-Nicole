@@ -10,9 +10,8 @@
 ### Languages and Tools:
 
 ---
-<a href="https://github.com/B-Nicole/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=B-Nicole&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/B-Nicole/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=B-Nicole&repo=convoychat" />
-</a>
+
+<img align="left" alt="B-Nicole's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=B-Nicole&show_icons=true&hide_border=true&theme=tokyonight"/>
+<img align = "left" alt = "B-Nicole's Top Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=B-Nicole&layout=compact"/>
+ 
+ 
