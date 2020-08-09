@@ -3,7 +3,7 @@
 - I am a member of the SDSU Aztec Game Lab where we develop video games :video_game:
 - I am Secretary of the SDSU Artificial Intelligence Club :pencil:
 - I am looking to expand my knowledge and gain experience in computer science :mortar_board:
-- ⚡Fun Fact: I love to draw and watch documentaries :art:
+- Fun Fact: I love to draw and watch documentaries :art:
 
 ### Connect with me: :email:
 - [Linkedin](https://linkedin.com/in/brittanyhughes175)
