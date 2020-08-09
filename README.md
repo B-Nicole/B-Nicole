@@ -11,6 +11,6 @@
 
 ---
 <img align = "left" alt = "B-Nicole's Top Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=B-Nicole&layout=compact"/>
-<br/>
+<br>
 <img align="left" alt="B-Nicole's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=B-Nicole&show_icons=true&hide_border=true&theme=tokyonight"/>
  
