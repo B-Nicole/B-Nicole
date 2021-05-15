@@ -1,6 +1,6 @@
 
 ### Hello! I'm Brittany [B-Nicole] 👋
-- I am a member of the SDSU Aztec Game Lab where we develop video games :video_game:
+- 2017-2021 SDSU Aztec Game Lab member where we develop video games :video_game:
 - I am Secretary of the SDSU Artificial Intelligence Club :pencil:
 - I am looking to expand my knowledge and gain experience in computer science :mortar_board:
 - Fun Fact: I love to draw and watch documentaries :art:
