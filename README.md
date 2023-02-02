@@ -1,7 +1,6 @@
 <!-- Banner-->
 
-![Black Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/90595158/211714223-88d74b88-203f-4682-a9e3-f265c82cccaa.png)
-
+<h1> BRITTANY HUGHES </h1>
 <p align="center">
 I'm a computer science graduate whose goal is to develop scalable, maintainable and user-friendly web applications and to learn the insides of software engineering. I am constantly learning and experimenting new technologies and frameworks expand my knowledge.
 </p>
