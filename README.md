@@ -69,6 +69,7 @@ I'm a computer science graduate whose goal is to develop scalable, maintainable 
 <details open>
 <summary><b>Languages </b></summary>
 <br>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
