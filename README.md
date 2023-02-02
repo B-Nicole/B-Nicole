@@ -111,7 +111,7 @@ I'm a computer science graduate whose goal is to develop scalable, maintainable 
 </p>
 </details>
 
-<details>
+
 <h2><em>⚡ Github Public Stats</em></h2>
 <br>
 <p align="center">
