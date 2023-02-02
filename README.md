@@ -1,12 +1,14 @@
 <!-- Banner-->
 
 <h1> BRITTANY HUGHES </h1>
+[![Gmail: Brittany Hughes](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hughesb791@gmail.com)](mailto:hughesb791@gmail.com)&nbsp;
+[![Linkedin: Brittany](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melvin-aguilar-dev)](https://www.linkedin.com/in/brittanyhughes175) &nbsp;
+
 <p align="center">
 I'm a computer science graduate whose goal is to develop scalable, maintainable and user-friendly web applications and to learn the insides of software engineering. I am constantly learning and experimenting new technologies and frameworks expand my knowledge.
 </p>
 
-[![Gmail: Brittany Hughes](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hughesb791@gmail.com)](mailto:hughesb791@gmail.com)&nbsp;
-[![Linkedin: Brittany](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melvin-aguilar-dev)](https://www.linkedin.com/in/brittanyhughes175) &nbsp;
+ 
 
 ##
 
