@@ -11,11 +11,11 @@ I'm a computer science graduate whose goal is to develop scalable, maintainable 
 
 <br>
 
-<!----<a href="https://storyset.com/people">People illustrations by Storyset</a> --->
+<!----<a href="https://storyset.com/people">People illustrations by Storyset</a>  
 <img align="right" alt="GIF" src="https://storyset.com/illustration/programming/amico" width="360px"/>
 
 
-<br>
+<br>-->
 
 
 - 🔭 I’m currently studying: **becoming a software engineer**.
