@@ -51,21 +51,21 @@ I'm a computer science graduate whose goal is to develop scalable, maintainable 
 <!--![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)&nbsp;-->
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap) 
 
-</details>
+ 
  
 <h3><b>Languages </b></h3>
 <br>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp; 
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp; 
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp; 
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp; 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-</details>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp; 
+ 
 
 <h3><b>💻 Software and Tools</b></h3>
 <br>
@@ -75,7 +75,7 @@ I'm a computer science graduate whose goal is to develop scalable, maintainable 
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
-</details>
+ 
 
 <!-- </div> -->
  
