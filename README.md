@@ -116,6 +116,8 @@ I'm a computer science graduate whose goal is to develop scalable, maintainable 
 <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=B-Nicole&show_icons=true&theme=radical&count_private=true" alt="B-Nicole" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Nicole&layout=compact&theme=radical" alt="B-Nicole" height="165">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-Nicole)](https://github.com/B-Nicole/github-readme-stats)
 </p>
  
 <div align="right">
