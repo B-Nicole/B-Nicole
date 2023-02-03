@@ -40,8 +40,7 @@ I'm a computer science graduate whose goal is to develop scalable, maintainable 
 <h2 align="center">🛠️ Languages and Tools</h2>
 
 <!-- <div align="center"> -->
-<details open>
-<summary><b>🏄‍♂️ Web Dev></summary>
+<h3><b>🏄‍♂️ Web Dev></h3>
 <br>
   
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -53,9 +52,8 @@ I'm a computer science graduate whose goal is to develop scalable, maintainable 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap) 
 
 </details>
-
-<details open>
-<summary><b>Languages </b></summary>
+ 
+<h3><b>Languages </b></h3>
 <br>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -69,9 +67,7 @@ I'm a computer science graduate whose goal is to develop scalable, maintainable 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 </details>
 
-
-<details open>
-<summary><b>💻 Software and Tools</b></summary>
+<h3><b>💻 Software and Tools</b></h3>
 <br>
 
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)&nbsp;
