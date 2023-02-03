@@ -36,15 +36,6 @@ I'm a computer science graduate whose goal is to develop scalable, maintainable 
 #
 
 <br>
-<h2 align="center">📊 Github Stats</h2>
-
-<div align = "center">
-
-![Stats Overview](https://raw.githubusercontent.com/B-Nicole/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Most Used Languages](https://raw.githubusercontent.com/B-Nicole/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-</div>
-<br>
 
 <h2 align="center">🛠️ Languages and Tools</h2>
 
