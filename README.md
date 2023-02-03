@@ -1,5 +1,5 @@
 <!-- Banner-->
-<h1>BRITTANY HUGHES</h1>
+<h1>BRITTANY</h1>
 <p align="center">
 I'm a computer science graduate whose goal is to develop scalable, maintainable and user-friendly web applications and to learn the insides of software engineering. I am constantly learning and experimenting new technologies and frameworks expand my knowledge.
 </p>
