@@ -11,11 +11,11 @@ I'm a computer science graduate whose goal is to develop scalable, maintainable 
 
 <br>
 
-<!----<a href="https://storyset.com/people">People illustrations by Storyset</a> --->
+<!----<a href="https://storyset.com/people">People illustrations by Storyset</a>  
 <img align="right" alt="GIF" src="https://storyset.com/illustration/programming/amico" width="360px"/>
 
 
-<br>
+<br>--->
 
 
 - 🔭 I’m currently studying: **becoming a software engineer**.
@@ -90,7 +90,6 @@ I'm a computer science graduate whose goal is to develop scalable, maintainable 
 <div align = "center">
 
 ![Stats Overview](https://raw.githubusercontent.com/B-Nicole/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <br>
