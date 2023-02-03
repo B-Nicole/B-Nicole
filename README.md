@@ -33,10 +33,14 @@ I'm a computer science graduate whose goal is to develop scalable, maintainable 
 - 📖 Learn more about **Data Structures**.
 - 📖 Create my own portfolio website.
 
-#
-
 <br>
 
+<h2 h2 align="center">⚡ Github Public Stats</h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=B-Nicole&show_icons=true&theme=radical&count_private=true" alt="B-Nicole" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Nicole&layout=compact&theme=radical" alt="B-Nicole" height="165">
+</p>
+
+<br>
 <h2 align="center">🛠️ Languages and Tools</h2>
 
 <!-- <div align="center"> -->
@@ -84,16 +88,10 @@ I'm a computer science graduate whose goal is to develop scalable, maintainable 
 <!-- BLOG-POST-LIST:START 
 <a href="https://github.com/B-Nicole/VoiceAssistant"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=MelvinAguilar&repo=VoiceAssistant&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="TravelGo"></a>-->
  
-<!-- BLOG-POST-LIST:END -->
+
 </p>
-</details>
 
 
-<h2><em>⚡ Github Public Stats</em></h2>
-<br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=B-Nicole&show_icons=true&theme=radical&count_private=true" alt="B-Nicole" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Nicole&layout=compact&theme=radical" alt="B-Nicole" height="165">
-</p>
  
 <div align="right">
   
