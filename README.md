@@ -80,6 +80,7 @@ I'm a computer science graduate whose goal is to develop scalable, maintainable 
 <br>
 
 <h2 align="center">👨‍💻 Projects</h2>
+[IN PROGRESS]
 <br>
 <p align="left">
 
