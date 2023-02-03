@@ -79,14 +79,10 @@ I'm a computer science graduate whose goal is to develop scalable, maintainable 
 
 <br>
 
-<h2 align="center">👨‍💻 More About Me on GitHub</h2>
-
-
-<summary><b>📚 Projects</b></summary>
+<h2 align="center">👨‍💻 Projects</h2>
 <br>
 <p align="left">
-<!-- BLOG-POST-LIST:START 
-<a href="https://github.com/B-Nicole/VoiceAssistant"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=MelvinAguilar&repo=VoiceAssistant&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="TravelGo"></a>-->
+
  
 
 </p>
